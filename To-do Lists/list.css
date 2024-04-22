@@ -1,0 +1,138 @@
+  h1 {
+       text-align: center;
+       color: green;
+  }
+
+  u {
+       text-decoration-color: greenyellow;
+  }
+
+  .darkmode{
+     background-color: black;
+     color: white;
+  }
+
+  .do {
+       text-decoration: line-through;
+       text-decoration-color: red;
+  }
+
+  div {
+       text-align: center;
+
+  }
+
+
+  li {
+       color: rgb(73, 108, 2);
+       background-color: rgba(255, 255, 255, 0.742);
+       font-weight: bolder;
+       box-shadow: 1px 1px 10px 5px greenyellow;
+       margin-top: 25px;
+       list-style: none;
+       font-size: 25px;
+       width: max-content;
+       height: max-content;
+       margin-top: 20px;
+       height: 4vh;
+       padding-left: 25px;
+       padding-right: 35px;
+       padding-top: 3px;
+       padding-bottom: 8px;
+       border-radius: 50px 0px 70px;
+       margin: auto;
+       margin-top: 30px;
+       transition: 400ms;
+  }
+
+  button:hover {
+       background-color: snow;
+       border: 2px solid green;
+       color: green;
+       box-shadow: 1px 1px 8px 2px greenyellow;
+       transition: 300ms;
+  }
+
+ .clear-all, .clear-mark{
+
+       font-size: 23px;
+       width: 8%;
+       margin-top: 30px;
+       height: 6vh;
+       padding-left: px;
+       padding-top: px;
+       border-radius: 50px 0px 70px;
+       background-color: green;
+       border: 2px solid greenyellow;
+       color: greenyellow;
+       width: max-content;
+      padding-right: 30px;
+      padding-left: 15px;
+  }
+
+  .add{
+     border-radius: 50%;
+     font-size: 27px;
+      font-weight: bolder;
+       background-color: green;
+       border: 2px solid greenyellow;
+       color: greenyellow;
+       margin-left: 10px;
+  }
+
+  p {
+       text-align: center
+  }
+
+  li input {
+       margin-left: 20px;
+  }
+
+  .mode:hover {
+       box-shadow: 1px 1px 5px 2px greenyellow;
+  }
+
+  .input-data {
+       color: green;
+       margin-top: 25px;
+       list-style: none;
+       font-size: 23px;
+       width: 60%;
+       margin-top: 20px;
+       height: 4vh;
+       padding-left: 20px;
+       padding-top: 4px;
+       padding-bottom: 3px;
+       border-radius: 50px 0px 70px;
+       outline: none;
+       border: 2px solid greenyellow;
+       transition: 700ms;
+  }
+
+  .input-data:focus {
+       box-shadow: 1px 1px 10px 5px greenyellow;
+  }
+
+  input {
+       cursor: pointer;
+  }
+
+  b {
+       cursor: pointer;
+       font-size: 15px;
+       padding-right: 10px;
+       color: red;
+text-decoration: none;
+  }
+
+  b:hover {
+       color: #a60303;
+  }
+  
+  h3{
+     color: red;
+     font-size: 20px;
+     text-align: center;
+  }
+
+
